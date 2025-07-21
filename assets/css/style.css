@@ -607,7 +607,7 @@ main {
 }
 @media screen and (max-width: 460px) {
   .about-anima {
-    transform: translate(-77%, -85%);
+    transform: translate(-77%, -82%);
   }
 }
 @media screen and (max-width: 410px) {
